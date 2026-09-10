@@ -1,0 +1,172 @@
+*{
+
+    box-sizing: border-box;
+    padding: 1px;
+    margin: 2px;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif; 
+    background: #f9f9f9;
+}
+
+
+.vinay {
+    background: #847b73;
+    color: white;
+    padding: 30px;
+    
+    height: 100px; 
+    width: 25px;
+    position:fixed;
+    width: 100%;
+}
+.vinay h2{
+    display:  inline-block;
+padding-right: 400px;
+}
+
+   
+    
+
+.aadarsh {
+   background-image: url(vinayvinay1.jpg);
+    width: 100%;
+    height: 700px;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.aadarsh h1 { 
+    font-size: 48px; 
+    margin-bottom: 5px; 
+}
+
+.aadarsh a {
+    display: inline-block;
+    background: white;
+    color: #333;
+    padding: 12px 30px;
+    border-radius: 25px;
+    margin-top: 15px;
+}
+.why{
+    display: flex;
+    padding-bottom: 50px;
+
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.why p{padding: 2px;
+    margin-left: 900px;
+}
+.why h2{
+    font-size: 40px}
+.shiva {
+
+  padding: 40px ;
+  gap: 40px;
+    display: flex;
+   margin-top: 20px;
+
+
+}
+.shiva h2 { font-size: 36px; color: #2c2a29; margin-bottom: 5px; }
+.shiva .subtitle { font-size: 14px; color: #666; margin-bottom: 30px; }
+
+.bholenath { margin-bottom: 40px; max-width: 500px;
+                    }
+.bholenath img { float: left;
+    width: 100%; 
+    height: 350px; 
+
+}
+
+.mahadev{
+    display: flex;
+    padding: 4px;
+    margin: 100px;
+}
+
+.mahadev h2{font-size: 40px;
+
+}
+
+.h-side{
+    margin-left: 20px;
+}
+.h-side p {
+    padding-left: 400px;
+}
+.h-side a{
+    padding-left: 400px;
+}
+
+
+.bholenath h3 {   font-size: 28px; color: #2c2a29; margin: 15px 0px 5px 0px; }
+.bholenath p { color: #555; font-size: 15px; line-height: 22px; }
+
+.kedarnath { margin-bottom: 40px; max-width: 500px; }
+.kedarnath img { 
+    width: 100%; 
+    height: 350px; 
+    
+}
+.kedarnath h3 { font-size: 28px; color: #2c2a29; margin: 15px 0px 5px 0px; 
+}
+.kedarnath p { color: #555; font-size: 15px; line-height: 22px; 
+}
+
+
+
+.vishnu, .krishna, .ganesha, .hanuman {
+    font-family: sans-serif;
+    padding: 30px 15px;
+    background: #f9f9f9;
+}
+
+.vishnu h2, .krishna h2, .ganesha h2, .hanuman h2 { 
+    font-size: 32px; 
+    color: #2c2a29; 
+    margin-bottom: 10px; 
+}
+
+.vishnu p, .krishna p, .ganesha p, .hanuman p { 
+    color: #555; 
+    font-size: 15px; 
+    line-height: 22px; 
+}
+
+.vishnu img { width: 100%; height: 350px;  object-fit: cover;}
+.krishna .review { margin-bottom: 25px; }
+.krishna .review p { font-style: italic; }
+.krishna h4 { font-size: 15px; margin: 5px 0 0 0; }
+
+
+.ganesha form { max-width: 400px; margin: 0 auto; }
+.ganesha label { display: block; font-size: 14px; margin-top: 15px; }
+.ganesha input, .ganesha textarea {
+    width: 100%;
+    padding: 8px 0;
+    border: none;
+    border-bottom: 1px solid #333; 
+    background: transparent;
+    
+}
+.ganesha button {
+    width: 100%;
+    background: transparent;
+    border: 1px solid #333;
+    padding: 12px;
+    border-radius: 25px;
+
+}
+.ganesha .info-text { text-align: center; margin-top: 30px; }
+
+
+.hanuman { background: #f4f3ef; padding: 0; }
+.hanuman img { width: 100%; height: 600px; }
+.hanuman .footer { padding: 30px 15px; }
+.hanuman a { display: block; color: #333; margin-bottom: 8px;  }
+.hanuman .copy { color: #777; margin-top: 30px; }
